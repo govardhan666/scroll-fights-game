@@ -7,15 +7,15 @@ Deployed smart contract on scroll sepolia testnet : https://sepolia.scrollscan.c
 
 ## Welcome to SCROLL💪FIGHTS Homepage
 
-![alt text](Screenshot_30-9-2024_172926_localhost.jpeg)
+![Screenshot_30-9-2024_172926_localhost](https://github.com/user-attachments/assets/1f9eeab7-04be-46ca-ab91-63324fc1ae20)
 
 ## Marketplace page
 
-![alt text](Screenshot_30-9-2024_172943_localhost.jpeg)
+![Screenshot_30-9-2024_172943_localhost](https://github.com/user-attachments/assets/8baddaa5-9f69-4d8a-9b3e-946318f0e1b4)
 
-## Game page
+## Gameplay page
 
-![alt text](Screenshot_30-9-2024_17306_localhost.jpeg)
+![Screenshot_30-9-2024_17306_localhost](https://github.com/user-attachments/assets/6cddde3e-c602-46ee-bd21-36fecc43f884)
 
 ## Requirements
 
@@ -60,3 +60,5 @@ yarn start
 ```
 
 Visit your app on: `http://localhost:3000`. You can interact with your smart contract using the contract component or the example ui in the frontend. You can tweak the app config in `packages/nextjs/scaffold.config.ts`.
+
+# Thank you for visiting SCROLL💪FIGHTS game.
