@@ -5,6 +5,8 @@ Buy weapons and battle with other scroll NFTs.
 
 Deployed smart contract on scroll sepolia testnet : https://sepolia.scrollscan.com/address/0x0cad79e1699b3422e49344fe69c3d814771cf443
 
+Alchemy usage: I deployed my project on Scroll sepolia and also I leveraged the Alchemy RPC via the Scroll API. You can go through `hardhat.config.ts` file of this project to find more about usage of Alchemy in Scroll💪Fights Game.
+
 ## Welcome to SCROLL💪FIGHTS Homepage
 
 ![Screenshot_30-9-2024_172926_localhost](https://github.com/user-attachments/assets/1f9eeab7-04be-46ca-ab91-63324fc1ae20)
